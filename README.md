@@ -2,7 +2,7 @@
 Sample pong game made using python turtle library..
 
 # Run Game
-python game.py
+python pong_game.py
 
 # Features Added
 
