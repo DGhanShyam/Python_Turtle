@@ -5,10 +5,6 @@ from turtle import Screen
 
 from random import *
 
-# items = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
-
-# tur = Turtle()
 
 scrn = Screen()
 
@@ -19,7 +15,6 @@ scrn.setup(width=1000, height=600)
 scrn.colormode(255)
 scrn.bgcolor(51, 0, 25)
 
-# tur.pencolor(51, 0, 25)
 
 # changing variables
 speed= 0
@@ -60,25 +55,6 @@ hit_ball.dy = -5
 
 left_player = 0
 right_player = 0
-
-
-#  >>> t.clear() reset   >>> t.stamp()  > t.clearstamp(8)
-# >>> t.pen(pencolor="purple", fillcolor="orange", pensize=10, speed=9)
-
-# >>> t.shape("turtle")
-# >>> t.shape("arrow")
-# >>> t.shape("circle")
-# Triangle
-# Classic, square
-#  >>> t.fillcolor("red")
-#  >>> t.pensize(5)
-#  >>> t.shapesize(1,5,10)
-#  >>> t.shapesize(10,5,1)
-# >>> t.shapesize(1,10,5)
-# >>> t.shapesize(10,1,5)
-# Initialize the score
-
-
 
  
 # Displays the score
