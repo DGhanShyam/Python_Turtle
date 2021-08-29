@@ -6,10 +6,10 @@ python game.py
 
 # Features Added
 
-Ball color modification after ball hit
-Better background color
-random speed increase after ball hit
-random color pads for more fun
-better score board
-More detailed instruction in screen
+Ball color modification after ball hit , 
+Better background color , 
+random speed increase after ball hit , 
+random color pads for more fun , 
+better score board , 
+More detailed instruction in screen , 
 others..
